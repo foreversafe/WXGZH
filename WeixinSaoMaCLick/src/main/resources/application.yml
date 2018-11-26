@@ -1,0 +1,8 @@
+wechat:
+  appid: wxda6a4db6aa75279d
+  secret: fccdb9b903e853d0396455790ad52a31
+
+  
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/

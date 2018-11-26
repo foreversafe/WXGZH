@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 图片 -->
+<!-- <xml> <ToUserName><![CDATA[oF_rY1Xx7bHcHMwLznBzbXD-42fU]]></ToUserName> 
+	<FromUserName><![CDATA[gh_6a36054eeb0e]]></FromUserName> <CreateTime>1542138960000</CreateTime> 
+	<MsgType><![CDATA[image]]></MsgType> <Image> <MediaId><![CDATA[RRvvLCX14oMa4LfvC--1Kr2lOCaePKp3H0xviAK9k6Jo0PUN50Xp60hcsPPa78Td]]></MediaId> 
+	</Image> </xml> -->
+
+<!-- <xml> <ToUserName><![CDATA[oF_rY1Xx7bHcHMwLznBzbXD-42fU]]></ToUserName> 
+	<FromUserName><![CDATA[gh_6a36054eeb0e]]></FromUserName> <CreateTime>1542139080000</CreateTime> 
+	<MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[ee]]></Content> </xml> -->
+
+
+<xml>
+	<ToUserName><![CDATA[oF_rY1Xx7bHcHMwLznBzbXD-42fU]]></ToUserName>
+	<FromUserName><![CDATA[gh_6a36054eeb0e]]></FromUserName>
+	<CreateTime>1542145200000</CreateTime>
+	<MsgType><![CDATA[image]]></MsgType>
+	<Image>
+		<MediaId><![CDATA[kBtQTcw_7Aqob5qcW6ogxVZwlXO1Wv7wZQZ-87kVLqgQI51TPB9TfND-p9zZMtEP]]></MediaId>
+	</Image>
+</xml>
+
+

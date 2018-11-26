@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root >
+    <environment type="formal">
+        <platform name="qihubao" num="1" domainName="dh.020leader.com" companyId="5">
+            <property name="interface_token">abc123</property>
+            <property name="appId">wx3e27a1a7d066d3e6</property>
+            <property name="appSecret">f1ed73dccc721bc60299978934cfe6d5</property>
+            <property name="loginPushTemplateId">vD-DzQnV-YefQBb-_vTiRLyNqbd7CV0Wtljp5Iu_f1Q</property>
+            <property name="intentPlanPushTemplateId">CTVAb3Gsnx-cNGpAgxgcnhYAYSiciEEAmuYfUuMSr0o</property>
+            <property name="redirectUrl">http://dh.020leader.com/static/testcall.html</property>
+            <property name="intentUrl">http://dh.020leader.com/static/index.html</property>
+        </platform>
+        <platform name="zuoyi" num="2" domainName="joy.xunyekeji.com" companyId="26">
+            <property name="interface_token">bbc123</property>
+            <property name="appId">wx4d0646fa643edf64</property>
+            <property name="appSecret">8b3d6aac76451a0c72b9858f9492629c</property>
+            <property name="loginPushTemplateId">axwf8v4GcbpBsxos9vVAF_o5yZxgshY2Y6BF8VSb658</property>
+            <property name="intentPlanPushTemplateId">gjS9WPKr_Pfmkp1byYYbfb_c3Jp0DbOkPAdggLiUKYA</property>
+            <property name="redirectUrl">http://joy.xunyekeji.com/static/testcall.html</property>
+            <property name="intentUrl">http://joy.xunyekeji.com/static/index.html</property>
+        </platform>
+        <platform name="yunkebao" num="3" domainName="dh.ai-ykb.com" companyId="23">
+            <property name="interface_token">cbc123</property>
+            <property name="appId">wxc18cd37dbfd61622</property>
+            <property name="appSecret">d3e29112c0b4622a1250cc9e508db399</property>
+            <property name="loginPushTemplateId">DXVG_EG2qyt6WPAQE2YZ9hLpjVlxLxsEkR5qCa__Lgo</property>
+            <property name="intentPlanPushTemplateId">iDMoR7xquH1aMG5-zVoaiHBNIB7vBeN5Si8CfR4K4yU</property>
+            <property name="redirectUrl">http://dh.ai-ykb.com/static/testcall.html</property>
+            <property name="intentUrl">http://dh.ai-ykb.com/static/index.html</property>
+        </platform>
+        <platform name="nake" num="4" domainName="dh.nakerb.com" companyId="17">
+            <property name="interface_token">dbc123</property>
+            <property name="appId">wx750840e1973bea69</property>
+            <property name="appSecret">ea7e9be71c9b30c5c95c69f9012e3641</property>
+            <property name="loginPushTemplateId">kXYnZtMn-ejI-jXyG9unlw4KhN8ApbMoEGeixgrQ-0o</property>
+            <property name="intentPlanPushTemplateId">c-KBhn4pEK4FwoOP28x8guUrWXrL-WpxeRUO3KZsNKs</property>
+            <property name="redirectUrl">http://dh.nakerb.com/static/testcall.html</property>
+            <property name="intentUrl">http://dh.nakerb.com/static/index.html</property>
+        </platform>
+    </environment>
+
+    <environment type="debug">
+        <platform name="qihubaodev" num="1" domainName="dev.otoleader.com" companyId="1">
+            <property name="interface_token">abc123</property>
+            <property name="appId">wx6e599fda220ac8ab</property>
+            <property name="appSecret">bc842c75896e19e41c3f39821b253ae4</property>
+            <property name="loginPushTemplateId">oa2vTN2O76sKb5k5gJhsJOE8HCc-WFvV8po8w1sDitU</property>
+            <property name="intentPlanPushTemplateId">YGbqKBSTvpdrZEXhfWKSAHVIy65tJTrcN8u28f9Si3E</property>
+            <property name="redirectUrl">http://dev.otoleader.com/static/testcall.html</property>
+            <property name="intentUrl">http://dev.otoleader.com/static/index.html</property>
+        </platform>
+
+        <platform name="qihubaodev2" num="2" domainName="dev2.otoleader.com" companyId="22">
+            <property name="interface_token">abc123</property>
+            <property name="appId">wxfc4cd34f98cb55fd</property>
+            <property name="appSecret">758a601880b035b9eed1dccd9585fab8</property>
+            <property name="loginPushTemplateId">YzLi8YC-bI4FnqbMRE1KIWaM49Ys_RcIBtUCTlsaN3o</property>
+            <property name="intentPlanPushTemplateId">KR8kliLE01w6hVqccxh7Rj3IbYuX6du51KhKnTQ-Ymk</property>
+            <property name="redirectUrl">http://dev.otoleader.com/static/testcall.html</property>
+            <property name="intentUrl">http://dev.otoleader.com/static/index.html</property>
+        </platform>
+
+    </environment>
+</root>
