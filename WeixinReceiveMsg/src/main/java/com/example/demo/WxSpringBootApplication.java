@@ -8,6 +8,5 @@ public class WxSpringBootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WxSpringBootApplication.class, args);
-		////////
 	}
 }
