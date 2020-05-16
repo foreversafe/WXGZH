@@ -51,6 +51,7 @@ public class AccessTokenController {
 		Map<String, String> map = new HashMap<>();
 		map.put("code", "200");
 		map.put("msg", "success");
+		System.out.println("ok");
 		return map;
 	}
 
